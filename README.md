@@ -15,5 +15,8 @@ Output LHE files (before adding displacement!): <BR>
    * 1111: DarkSUSY_mH_125_mGammaD_20000_14TeV_madgraph452_bridge224_events50k_v1.lhe (Sven) <BR>
       * https://github.com/dildick/MuJetAnalysis_DarkSusySamples_LHE_Generation/blob/master/MG_ME_V4.5.2_CompiledBackup/MG_ME_V4.5.2/BRIDGE/DarkSUSY_mH_125_mGammaD_20000_14TeV_madgraph452_bridge224_events50k_v1.lhe.tar.gz
    * 2222: DarkSUSY_mH_125_mGammaD_20000_14TeV_madgraph452_bridge224_events50k_v2.lhe (Sven) <BR>
+      * https://github.com/dildick/MuJetAnalysis_DarkSusySamples_LHE_Generation/blob/master/MG_ME_V4.5.2_CompiledBackup/MG_ME_V4.5.2/BRIDGE/DarkSUSY_mH_125_mGammaD_20000_14TeV_madgraph452_bridge224_events50k_v2.lhe.tar.gz
    * 3333: DarkSUSY_mH_125_mGammaD_20000_14TeV_madgraph452_bridge224_events50k_v3.lhe (Sven) <BR>
+      * https://github.com/dildick/MuJetAnalysis_DarkSusySamples_LHE_Generation/blob/master/MG_ME_V4.5.2_CompiledBackup/MG_ME_V4.5.2/BRIDGE/DarkSUSY_mH_125_mGammaD_20000_14TeV_madgraph452_bridge224_events50k_v3.lhe.tar.gz
    * 4444: DarkSUSY_mH_125_mGammaD_20000_14TeV_madgraph452_bridge224_events50k_v4.lhe (Sven) <BR>
+      * https://github.com/dildick/MuJetAnalysis_DarkSusySamples_LHE_Generation/blob/master/MG_ME_V4.5.2_CompiledBackup/MG_ME_V4.5.2/BRIDGE/DarkSUSY_mH_125_mGammaD_20000_14TeV_madgraph452_bridge224_events50k_v4.lhe.tar.gz
