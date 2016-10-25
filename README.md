@@ -28,5 +28,20 @@ To change the displacement, run https://github.com/cms-tamu/MuJetAnalysis_DarkSu
    * https://github.com/dildick/MuJetAnalysis_DarkSusySamples_LHE_Generation/tree/master/MG_ME_V4.5.2_CompiledBackup/MG_ME_V4.5.2/ValidationPlots_mGammaD_20000_14_TeV_cT_000_v2<BR>
    * https://github.com/dildick/MuJetAnalysis_DarkSusySamples_LHE_Generation/tree/master/MG_ME_V4.5.2_CompiledBackup/MG_ME_V4.5.2/ValidationPlots_mGammaD_20000_14_TeV_cT_000_v3<BR>
    * https://github.com/dildick/MuJetAnalysis_DarkSusySamples_LHE_Generation/tree/master/MG_ME_V4.5.2_CompiledBackup/MG_ME_V4.5.2/ValidationPlots_mGammaD_20000_14_TeV_cT_000_v4<BR>
+   * https://github.com/tahuang1991/MuJetAnalysis_DarkSusySamples_LHE_Generation/tree/master/Validation/ctau0/ <BR>
+   * https://github.com/tahuang1991/MuJetAnalysis_DarkSusySamples_LHE_Generation/tree/master/Validation/ctau10/ <BR>
+   * https://github.com/tahuang1991/MuJetAnalysis_DarkSusySamples_LHE_Generation/tree/master/Validation/ctau100/ <BR>
+   * https://github.com/tahuang1991/MuJetAnalysis_DarkSusySamples_LHE_Generation/tree/master/Validation/ctau1000/ <BR>
 
 ## LHE files (after adding displacement!): <BR>
+
+   * 5555: DarkSUSY_mH_125_mGammaD_20_14TeV_cT_0_madgraph452_bridge224_events50k_v2.lhe (Tao) <BR>
+	*https://github.com/tahuang1991/MuJetAnalysis_DarkSusySamples_LHE_Generation/tree/master/Validation/ctau0/DarkSUSY_mH_125_mGammaD_20_14TeV_cT_0_madgraph452_bridge224_events50k_v2.lhe
+   * 6666: DarkSUSY_mH_125_mGammaD_20_14TeV_cT_10_madgraph452_bridge224_events50k_v2.lhe (Tao) <BR>
+	*https://github.com/tahuang1991/MuJetAnalysis_DarkSusySamples_LHE_Generation/tree/master/Validation/ctau0/DarkSUSY_mH_125_mGammaD_20_14TeV_cT_10_madgraph452_bridge224_events50k_v2.lhe
+   * 7777: DarkSUSY_mH_125_mGammaD_20_14TeV_cT_100_madgraph452_bridge224_events50k_v2.lhe (Tao) <BR>
+	*https://github.com/tahuang1991/MuJetAnalysis_DarkSusySamples_LHE_Generation/tree/master/Validation/ctau0/DarkSUSY_mH_125_mGammaD_20_14TeV_cT_100_madgraph452_bridge224_events50k_v2.lhe
+   * 8888: DarkSUSY_mH_125_mGammaD_20_14TeV_cT_1000_madgraph452_bridge224_events50k_v2.lhe (Tao) <BR>
+	*https://github.com/tahuang1991/MuJetAnalysis_DarkSusySamples_LHE_Generation/tree/master/Validation/ctau0/DarkSUSY_mH_125_mGammaD_20_14TeV_cT_1000_madgraph452_bridge224_events50k_v2.lhe
+
+
